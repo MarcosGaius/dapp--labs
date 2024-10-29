@@ -4,7 +4,7 @@
 
 There are two contracts, built upon openzeppelin library. One ERC20 representing a RWA called BLTM and a Liquidity Pool which allows users to swap BLTM for USDC and vice-versa. There's a dApp which allows, in a user-friendly and web3 themed way, the user to interact with the contracts.
 
-**Deployment at**:
+**Deployment at**: https://dapp-blank-labs.vercel.app/
 
 ## Technologies Used
 
